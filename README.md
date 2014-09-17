@@ -1,4 +1,4 @@
-common.css
+shorthand.css
 ==========
 
-Commonly used, universal CSS classes
+Commonly used CSS functionality written in shorthand
