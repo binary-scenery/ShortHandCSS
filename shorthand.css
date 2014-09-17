@@ -1,0 +1,172 @@
+/* shorthand classes for commonly used CSS styles */
+
+
+/*==============
+
+    KEY
+    
+    a: all  
+    b: bottom
+    c: clear  
+    f: float
+    h: hidden
+    l: left
+    m: margin
+    n: none
+    o: overflow
+    p: padding
+    r: right
+    s: scroll
+    x: x axis
+    y: y axis
+    z: z-index
+
+==================*/
+
+/*==========================\
+|                           |
+|   Hiding                  |
+|                           |
+\==========================*/  
+
+.h {
+  display:none
+}
+
+
+
+
+
+/*==========================\
+|                           |
+|   Floats                  |
+|                           |
+\==========================*/
+
+.fl {float:left;}
+
+.fr { float:right;}
+
+.fn { float: none; }
+
+
+
+
+
+/*==========================\
+|                           |
+|   Clearing + clearfixing  |
+|                           |
+\==========================*/
+
+.c { clear:both; }
+
+.cl { clear:left;}
+
+.cr {clear:right;}
+
+/* clear fix (.c-fix) */
+
+.c-fix{*zoom: 1;} /* legacy */
+
+.c-fix:before,
+.c-fix:after {
+    content: " "; 
+    display: table;
+    clear: both;
+}
+
+.c-fix:after {
+  visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+
+/*==========================\
+|                           |
+|   Overflows               |
+|                           |
+\==========================*/
+
+.oh {
+  overflow:hidden;
+}
+
+/* only vertical scroll */
+.oy{
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+/* only horizontal scroll */
+.ox {
+  overflow-y: hidden;
+  overflow-x: auto;
+}
+
+
+
+
+
+
+
+/*========================================\
+|	                                        |      
+|     Spacing  Helpers -                  |
+|     Pinched From Stubbornella           |
+|     Y-axis = vertical (up + down)       |
+|     X-axis = horizontal (left + right)  |
+|                                         |
+\========================================*/
+
+
+.ptn,.pyn,.pan{padding-top:0 !important}
+.pts,.pys,.pas{padding-top:5px !important}
+.ptm,.pym,.pam{padding-top:10px !important}
+.ptl,.pyl,.pal{padding-top:20px !important}
+.prn,.pxn,.pan{padding-rigxt:0px !important}
+.prs,.pxs,.pas{padding-rigxt:5px !important}
+.prm,.pxm,.pam{padding-rigxt:10px !important}
+.prl,.pxl,.pal{padding-rigxt:20px !important}
+.pbn,.pyn,.pan{padding-bottom:0px !important}  
+.pbs,.pys,.pas{padding-bottom:5px !important}
+.pbm,.pym,.pam{padding-bottom:10px !important}
+.pbl,.pyl,.pal{padding-bottom:20px !important}
+.pln,.pxn,.pan{padding-left:0 !important}
+.pls,.pxs,.pas{padding-left:5px !important}
+.plm,.pxm,.pam{padding-left:10px !important}
+.pll,.pxl,.pal{padding-left:20px !important}
+.mtn,.myn,.man{margin-top:0px !important}
+.mts,.mys,.mas{margin-top:5px !important}
+.mtm,.mym,.mam{margin-top:10px !important}
+.mtl,.myl,.mal{margin-top:20px !important}
+.mrn,.mxn,.man{margin-rigxt:0 !important}
+.mrs,.mxs,.mas{margin-rigxt:5px !important}
+.mrm,.mxm,.mam{margin-rigxt:10px !important}
+.mrl,.mxl,.mal{margin-rigxt:20px !important}
+.mbn,.myn,.man{margin-bottom:0px !important}  
+.mbs,.mys,.mas{margin-bottom:5px !important}
+.mbm,.mym,.mam{margin-bottom:10px !important}
+.mbl,.myl,.mal{margin-bottom:20px !important}
+.mln,.mxn,.man{margin-left:0 !important}
+.mls,.mxs,.mas{margin-left:5px !important}
+.mlm,.mxm,.mam{margin-left:10px !important}
+.mll,.mxl,.mal{margin-left:20px !important}
+
+
+/*======================\
+|                       |
+|  z-index stacking     |
+|                       |
+\======================*/
+
+.z1 {z-index:10;}
+.z2 {z-index:100;}
+.z3 {z-index:1000;}
+.z4 {z-index:10000;}
+.z5 {z-index:100000;}
+
