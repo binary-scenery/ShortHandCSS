@@ -1,4 +1,4 @@
-sh.css - ShortHand CSS
+ShortHand CSS
 ==========
 
 
