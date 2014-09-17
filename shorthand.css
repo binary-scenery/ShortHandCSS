@@ -20,6 +20,7 @@
 
 \===================*/
 
+
 /*==========================\
 |                           |
 |   Hiding                  |
@@ -29,9 +30,6 @@
 .h {
   display:none
 }
-
-
-
 
 
 /*==========================\
@@ -45,9 +43,6 @@
 .fr { float:right;}
 
 .fn { float: none; }
-
-
-
 
 
 /*==========================\
@@ -106,20 +101,14 @@
 }
 
 
-
-
-
-
-
 /*========================================\
-|	                                        |      
+|	                                  |      
 |     Spacing  Helpers -                  |
 |     Pinched From Stubbornella           |
 |     Y-axis = vertical (up + down)       |
 |     X-axis = horizontal (left + right)  |
 |                                         |
 \========================================*/
-
 
 .ptn,.pyn,.pan{padding-top:0 !important}
 .pts,.pys,.pas{padding-top:5px !important}
