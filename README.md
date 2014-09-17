@@ -1,4 +1,4 @@
-shorthand.css
+sh.css - ShortHand CSS
 ==========
 
-Commonly used CSS functionality written in shorthand
+Commonly used CSS rules written in shorthand
