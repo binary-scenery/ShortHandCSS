@@ -2,7 +2,7 @@ ShortHand CSS
 ==========
 
 
-Shorthand CSS is a collection of universally applicable, commonly used CSS functions, written in shorthand.
+Shorthand CSS is a collection of universally applicable, commonly used CSS rules, written in shorthand.
 
 For example: "f" is short for "float" and "l" is short for "left", so adding a class of "fl" to your HTML will make that element float left.
 
