@@ -110,38 +110,38 @@
 |                                         |
 \========================================*/
 
-.ptn,.pyn,.pan{padding-top:0 !important}
-.pts,.pys,.pas{padding-top:5px !important}
-.ptm,.pym,.pam{padding-top:10px !important}
-.ptl,.pyl,.pal{padding-top:20px !important}
-.prn,.pxn,.pan{padding-right:0px !important}
-.prs,.pxs,.pas{padding-right:5px !important}
-.prm,.pxm,.pam{padding-right:10px !important}
-.prl,.pxl,.pal{padding-right:20px !important}
-.pbn,.pyn,.pan{padding-bottom:0px !important}  
-.pbs,.pys,.pas{padding-bottom:5px !important}
-.pbm,.pym,.pam{padding-bottom:10px !important}
-.pbl,.pyl,.pal{padding-bottom:20px !important}
-.pln,.pxn,.pan{padding-left:0 !important}
-.pls,.pxs,.pas{padding-left:5px !important}
-.plm,.pxm,.pam{padding-left:10px !important}
-.pll,.pxl,.pal{padding-left:20px !important}
-.mtn,.myn,.man{margin-top:0px !important}
-.mts,.mys,.mas{margin-top:5px !important}
-.mtm,.mym,.mam{margin-top:10px !important}
-.mtl,.myl,.mal{margin-top:20px !important}
-.mrn,.mxn,.man{margin-right:0 !important}
-.mrs,.mxs,.mas{margin-right:5px !important}
-.mrm,.mxm,.mam{margin-right:10px !important}
-.mrl,.mxl,.mal{margin-right:20px !important}
-.mbn,.myn,.man{margin-bottom:0px !important}  
-.mbs,.mys,.mas{margin-bottom:5px !important}
-.mbm,.mym,.mam{margin-bottom:10px !important}
-.mbl,.myl,.mal{margin-bottom:20px !important}
-.mln,.mxn,.man{margin-left:0 !important}
-.mls,.mxs,.mas{margin-left:5px !important}
-.mlm,.mxm,.mam{margin-left:10px !important}
-.mll,.mxl,.mal{margin-left:20px !important}
+.ptn,.pyn,.pan	{ padding-top:0; 	}
+.pts,.pys,.pas	{ padding-top:5px; 	}
+.ptm,.pym,.pam	{ padding-top:10px; 	}
+.ptl,.pyl,.pal	{ padding-top:20px; 	}
+.prn,.pxn,.pan	{ padding-right:0px; 	}
+.prs,.pxs,.pas	{ padding-right:5px;	}
+.prm,.pxm,.pam	{ padding-right:10px;	}
+.prl,.pxl,.pal	{ padding-right:20px; 	}
+.pbn,.pyn,.pan	{ padding-bottom:0px; 	}  
+.pbs,.pys,.pas	{ padding-bottom:5px;	}
+.pbm,.pym,.pam	{ padding-bottom:10px; 	}
+.pbl,.pyl,.pal	{ padding-bottom:20px; 	}
+.pln,.pxn,.pan	{ padding-left:0; 	}
+.pls,.pxs,.pas	{ padding-left:5px; 	}
+.plm,.pxm,.pam	{ padding-left:10px; 	}
+.pll,.pxl,.pal	{ padding-left:20px; 	}
+.mtn,.myn,.man	{ margin-top:0px; 	}
+.mts,.mys,.mas	{ margin-top:5px; 	}
+.mtm,.mym,.mam	{ margin-top:10px; 	}
+.mtl,.myl,.mal	{ margin-top:20px; 	}
+.mrn,.mxn,.man	{ margin-right:0; 	}
+.mrs,.mxs,.mas	{ margin-right:5px; 	}
+.mrm,.mxm,.mam	{ margin-right:10px; 	}
+.mrl,.mxl,.mal	{ margin-right:20px; 	}
+.mbn,.myn,.man	{ margin-bottom:0px; 	}  
+.mbs,.mys,.mas	{ margin-bottom:5px; 	}
+.mbm,.mym,.mam	{ margin-bottom:10px; 	}
+.mbl,.myl,.mal	{ margin-bottom:20px; 	}
+.mln,.mxn,.man	{ margin-left:0; 	}
+.mls,.mxs,.mas	{ margin-left:5px; 	}
+.mlm,.mxm,.mam	{ margin-left:10px; 	}
+.mll,.mxl,.mal	{ margin-left:20px; 	}
 
 
 /*======================\
